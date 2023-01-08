@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AzeemNasir007/Meet/static/css/main.073c9b0a.css",
+    "main.js": "/AzeemNasir007/Meet/static/js/main.749416df.js",
+    "static/js/787.4b564826.chunk.js": "/AzeemNasir007/Meet/static/js/787.4b564826.chunk.js",
+    "service-worker.js": "/AzeemNasir007/Meet/service-worker.js",
+    "static/media/logo.svg": "/AzeemNasir007/Meet/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/AzeemNasir007/Meet/index.html",
+    "main.073c9b0a.css.map": "/AzeemNasir007/Meet/static/css/main.073c9b0a.css.map",
+    "main.749416df.js.map": "/AzeemNasir007/Meet/static/js/main.749416df.js.map",
+    "787.4b564826.chunk.js.map": "/AzeemNasir007/Meet/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.749416df.js"
+  ]
+}
